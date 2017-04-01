@@ -15,11 +15,8 @@ To install everything in one command (useful for VPS deployment) on Debian-based
 cd $home && git clone https://github.com/tgMember/sinchi.git && cd sinchi 
 ```
 
-Enter your telegram Id in "sudo.lua" file
-for see your account Id Number in [@UserInfoBot](https://t.me/userinfobot)
-replace your id whit 000000000 and save.
-you can edit file whit nano command:
-```
+
+
 nano sudo.lua
 ```
 then
